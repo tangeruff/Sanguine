@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sanguine",
+  "name": "Sanguine",
+  "description": "A comprehensive mod for Hypixel Zombies.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/tangeruff/sanguine",
+  "updateUrl": "",
+  "authorList": ["tangeruff"],
+  "credits": "tahmid-23, cyoung06",
+  "logoFile": "icon.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
